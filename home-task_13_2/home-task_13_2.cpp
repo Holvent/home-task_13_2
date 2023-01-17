@@ -74,12 +74,12 @@ int main()
     f1();
     system("pause");
     system("cls");
-    //Задание 1.
+    //Задание 2.
     cout << "Home task #13.2.2\n\n";
     f2();
     system("pause");
     system("cls");
-    //Задание 1.
+    //Задание 3.
     cout << "Home task #13.2.3\n\n";
     f3();
 }
